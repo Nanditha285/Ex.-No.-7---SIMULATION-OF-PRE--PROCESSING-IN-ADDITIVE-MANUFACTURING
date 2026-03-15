@@ -46,6 +46,7 @@
 ## Output:
 ![image](https://github.com/Nanditha285/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/uu.jpeg?raw=true)
 
+
 ### Name:
 ### Register Number:
 
