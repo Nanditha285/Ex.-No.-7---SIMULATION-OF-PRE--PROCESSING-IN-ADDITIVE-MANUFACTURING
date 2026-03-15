@@ -46,9 +46,9 @@
 ## Output:
 ![image](https://github.com/Nanditha285/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/uu.jpeg?raw=true)
 ![image](https://github.com/Nanditha285/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/2222.jpeg?raw=true_)
-
-### Name:
-### Register Number:
+![image](https://github.com/Nanditha285/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/55.jpeg?raw=true)
+### Name:Nanditha Shaji
+### Register Number:212225040273
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
